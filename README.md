@@ -44,11 +44,6 @@ A TypeScript project exported from a Caffeine project.
 
 ---
 
-## GitHub activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Metaspolit01&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Metaspolit01&layout=compact)
-
----
 
 ## Links
 - Portfolio: http://karthiksportfolio.framer.website
