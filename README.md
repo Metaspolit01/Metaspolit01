@@ -1,55 +1,57 @@
-# Hi, I’m Metaspolit01
+# Hi, I'm Metaspolit01
 
-I build projects across **DevOps / Cloud / Automation** and **full‑stack web** — turning ideas into repeatable systems.
+**DevOps / Cloud / Automation + Full‑Stack TypeScript** — I design reliable infrastructure, automate the boring parts, and ship clean, maintainable web apps.
 
----
-
-## What I’m focused on (2026)
-- Kubernetes operations, reliability, and self-healing patterns
-- Infrastructure as Code with Terraform + automation pipelines
-- Building TypeScript apps with clean UX and maintainable architecture
+- **Core strengths:** Kubernetes reliability, Terraform IaC, CI/CD automation, TypeScript engineering
+- **What I optimize for:** uptime, repeatability, fast feedback loops, and developer experience
 
 ---
 
-## Featured projects
+## What I'm focused on (2026)
+- **Kubernetes operations & reliability:** observability, self‑healing, safer rollouts
+- **Infrastructure as Code:** Terraform modules, environment parity, policy‑friendly automation
+- **TypeScript apps:** clean UX, scalable architecture, testable code
+
+---
+
+## Featured work
 ### 🔧 Kubernetes Autohealing (Python)
-https://github.com/Metaspolit01/kubernetes-autohealing  
-A Python-based project focused on Kubernetes resilience and automated recovery.
+**Repository:** https://github.com/Metaspolit01/kubernetes-autohealing  
+Resilience patterns and automated recovery workflows for Kubernetes clusters.
 
 ### 📈 DevPulse (TypeScript)
-https://github.com/Metaspolit01/devpulse  
-DevPulse: a TypeScript project exported from a Caffeine project.
+**Repository:** https://github.com/Metaspolit01/devpulse  
+A TypeScript project exported from a Caffeine project.
 
 ### 🧁 Mummies One Home Bakery (TypeScript)
-https://github.com/Metaspolit01/mummiesone-homebakery  
-A TypeScript-based project exported from a Caffeine project.
+**Repository:** https://github.com/Metaspolit01/mummiesone-homebakery  
+A TypeScript project exported from a Caffeine project.
 
 ### ☁️ Terraform (HCL)
-https://github.com/Metaspolit01/Terraform  
-Terraform automation files (IaC).
+**Repository:** https://github.com/Metaspolit01/Terraform  
+Infrastructure automation files (IaC).
 
 ### 🧩 Pipeline Project (HCL)
-https://github.com/Metaspolit01/pipeline-project  
-Automating workflows using a pipeline setup.
+**Repository:** https://github.com/Metaspolit01/pipeline-project  
+Pipeline setup for automating workflows.
 
 ---
 
-## Tech stack
-**Cloud / DevOps:** Kubernetes, Terraform  
-**Languages:** TypeScript, Python, JavaScript, HCL  
-**Also exploring:** CI/CD patterns, automation, reliability engineering
+## Tech I use
+**Cloud / DevOps:** Kubernetes, Terraform, CI/CD, Automation, Reliability Engineering  
+**Languages:** TypeScript, Python, JavaScript, HCL
 
 ---
 
 ## GitHub activity
-> Tip: If you prefer not to show stats cards, delete this section.
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Metaspolit01&show_icons=true&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Metaspolit01&layout=compact)
 
 ---
 
-## Let’s connect
+## Let's connect
 - GitHub: https://github.com/Metaspolit01
 
-If you want, open an issue on any repo with “collab” in the title and what you’d like to build.
+**Open to:** DevOps / Platform / SRE / Cloud Engineering roles, and TypeScript-heavy full‑stack work.
+
+If you'd like to collaborate, open an issue on any repo with **"collab"** in the title and what you'd like to build.
