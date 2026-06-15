@@ -1,4 +1,4 @@
-# Hi, I'm Metaspolit01
+# Hi, Karthik Narasimha
 
 **Platform / DevOps / Cloud Engineer** — I build reliable Kubernetes platforms, automate infrastructure with Terraform, and ship production-ready systems with strong CI/CD and observability.
 
